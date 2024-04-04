@@ -1,0 +1,16 @@
+
+<html>
+    <h1>
+        Hey, I'm NetworkChuck
+    </h1>
+    <body>
+        <h2>About me</h2>
+        <p>
+            I am a coffee addict who makes vidoes sometimes.
+        </p>
+        <h2>What I'm working on</h2>
+        <p>
+            I'm obsessed with AI right now and I'm working on the CPTS from HTB.
+        </p>
+    </body>
+</html>
