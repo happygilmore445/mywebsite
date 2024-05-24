@@ -11,3 +11,15 @@
   *{
    padding-left: 15;
   }
+
+  nav{
+    padding-top: 20;
+  }
+
+  h2{
+    padding-top: 25;
+  }
+
+  img{
+    width: 20%;
+  }
