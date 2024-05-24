@@ -1,0 +1,25 @@
+
+
+.ul {
+    list-style-type: none; /* Verwijder de bolletjes */
+    padding: 0; /* Verwijder standaard padding */
+    margin: 0; /* Verwijder standaard margin */
+    display: flex; /* Gebruik flexbox om de items naast elkaar te zetten */
+    gap: 10px; /* Optioneel: voeg ruimte tussen de items toe */
+  }
+
+  *{
+   padding-left: 15;
+  }
+
+  nav{
+    padding-top: 20;
+  }
+
+  h2{
+    padding-top: 25;
+  }
+
+  img{
+    width: 20%;
+  }
